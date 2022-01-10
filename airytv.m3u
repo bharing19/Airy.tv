@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="airytv_EPGBurst_Network" tvg-name="Burst Network" tvg-logo="https://www.burst.com/wp-content/themes/zerif-lite/images/logo.png" group-title="Airy.tv",Burst Network
+https://hls.airy.tv/stream/10/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGPolo_Mania_TV" tvg-name="Polo Mania TV" tvg-logo="https://images.hub.pzaz.tv/aws-resize/polo-mania/store_icon825de853-edd7-4506-8352-5dc84f7b0394.png" group-title="Airy.tv",Polo Mania TV
+https://hls.airy.tv/stream/11/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGHorrormax" tvg-name="Horrormax" tvg-logo="https://admin.horrormax.com/uploads/settings/SV-2020-09-15-19-49-03-a47533414ee2d2407610882ea27059042a4f5917.png" group-title="Airy.tv",Horrormax
+https://hls.airy.tv/stream/13/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGWLN:_Wrestling_Legends_Network" tvg-name="Wrestling Legends Network WLN" tvg-logo="https://images.squarespace-cdn.com/content/v1/613faf297091e355f3e7f1e7/45bbd0fe-c8ee-41b0-9437-4afb1b8fd6df/WLN+Official.png" group-title="Airy.tv",Wrestling Legends Network WLN
+https://hls.airy.tv/stream/14/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGFilm_Star_TV" tvg-name="Film Star TV" tvg-logo="https://image.roku.com/developer_channels/prod/3a4dc6468e53ab11c1c7282c9f86e93d5f6cc0da3f8e285848d7cd49cf72d780.png" group-title="Airy.tv",Film Star TV
+https://hls.airy.tv/stream/16/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGairy_noepg" tvg-name="4Acetv" tvg-logo="https://github.com/DeltaSr95/logos/raw/main/4acetv.png" group-title="Airy.tv",4Ace.tv
+https://hls.airy.tv/stream/18/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGWild_America_TV" tvg-name="Wild America TV" tvg-logo="http://www.wildamerica.com/images/logo_back.png" group-title="Airy.tv",Wild America TV
+https://hls.airy.tv/stream/19/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGairy_noepg" tvg-name="Winnies World TV" tvg-logo="https://static.wixstatic.com/media/ae61b4_c8a9593ee99a4b72a0079e696371730c~mv2.png" group-title="Airy.tv",Winnies World TV
+https://hls.airy.tv/stream/20/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGStream_Go_TV" tvg-name="Stream Go TV" tvg-logo="https://streamgomedia.com/wp-content/uploads/2021/02/logo.png" group-title="Airy.tv",Stream Go TV
+https://hls.airy.tv/stream/21/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGairy_noepg" tvg-name="Arubatv" tvg-logo="https://aruba.tv/wp-content/uploads/2020/07/cropped-ArubaTV_Logo-Cable-TV_V3.png" group-title="Airy.tv",Aruba.tv
+https://hls.airy.tv/stream/22/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGZoo_Animal_Antics" tvg-name="Zoo Animal Antics" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTBDJ7Ea0ZVFauqdO0OSzgxkyrOhenOww4720wh=s176-c-k-c0x00ffffff-no-rj" group-title="Airy.tv",Zoo Animal Antics
+https://hls.airy.tv/stream/23/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGLegend_Films" tvg-name="Legend Films" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Legend_Films_Logo.png" group-title="Airy.tv",Legend Films
+https://hls.airy.tv/stream/24/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGairy_noepg" tvg-name="iHolyfield TV" tvg-logo="https://flixx.net/wp-content/uploads/2021/05/iholyfield-tv-640x360-1-640x360-1.png" group-title="Airy.tv",iHolyfield TV
+https://hls.airy.tv/stream/26/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGairy_noepg" tvg-name="iCowboy TV" tvg-logo="https://github.com/DeltaSr95/logos/raw/main/icowboy.png" group-title="Airy.tv",iCowboy TV
+https://hls.airy.tv/stream/27/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGiJemTV" tvg-name="iJemTV" tvg-logo="https://static.wixstatic.com/media/ae61b4_07c6558213844bd1829821be70b0bb8a~mv2.png" group-title="Airy.tv",iJemTV
+https://hls.airy.tv/stream/28/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGThought_Network_TV" tvg-name="Thought Network TV" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/misc/movies/movies1.png" group-title="Airy.tv",Thought Network TV
+https://hls.airy.tv/stream/29/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGMovie_Giants" tvg-name="Movie Giants" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/misc/movies/movies1.png" group-title="Airy.tv",Movie Giants
+https://hls.airy.tv/stream/30/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGiSCIFI_TV" tvg-name="iSCIFI TV" tvg-logo="https://github.com/DeltaSr95/logos/raw/main/iscifitv.png" group-title="Airy.tv",iSCIFI TV
+https://hls.airy.tv/stream/31/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGFrontliners_TV" tvg-name="Frontliners TV" tvg-logo="https://iconape.com/wp-content/png_logo_vector/frontliners-logo.png" group-title="Airy.tv",Frontliners TV
+https://hls.airy.tv/stream/32/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGThailandTV" tvg-name="ThailandTV" tvg-logo="https://iconape.com/wp-content/png_logo_vector/flag-map-of-thailand-logo.png" group-title="Airy.tv",ThailandTV
+https://hls.airy.tv/stream/33/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGExploration_and_Food" tvg-name="Exploration and Food" tvg-logo="https://iconape.com/wp-content/png_logo_vector/food-clothing.png" group-title="Airy.tv",Exploration and Food
+https://hls.airy.tv/stream/34/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGWarzone" tvg-name="Warzone" tvg-logo="https://github.com/DeltaSr95/logos/raw/main/warzone.png" group-title="Airy.tv",Warzone
+https://hls.airy.tv/stream/35/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGGiddy_Up" tvg-name="Giddy Up" tvg-logo="https://pbs.twimg.com/profile_images/1094582351/twitter_photo_400x400.jpg" group-title="Airy.tv",Giddy Up
+https://hls.airy.tv/stream/36/airy.m3u8
+#EXTINF:-1 tvg-id="Monsters_Aliens_Werewolves" tvg-name="Monsters Aliens and Werewolves" tvg-logo="https://iconape.com/wp-content/png_logo_vector/vermont-lake-monsters-logo.png" group-title="Airy.tv",Monsters Aliens and Werewolves
+https://hls.airy.tv/stream/38/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGairy_noepg" tvg-name="iShe TV" tvg-logo="https://flixx.net/wp-content/uploads/2021/05/ishe-tv-640x360-1-640x360-1.png" group-title="Airy.tv",iShe TV
+https://hls.airy.tv/stream/39/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGComfy_TV" tvg-name="Comfy TV" tvg-logo="https://flixx.net/wp-content/uploads/2021/05/comfy-tv-640x360-1-640x360-1.png" group-title="Airy.tv",Comfy TV
+https://hls.airy.tv/stream/40/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGairy_noepg" tvg-name="MD 365" tvg-logo="https://static.wixstatic.com/media/ae61b4_bb37b13327d7422f98cd20dd78173767~mv2.png" group-title="Airy.tv",MD 365
+https://hls.airy.tv/stream/41/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGReal_Family_TV" tvg-name="Real Family TV" tvg-logo="https://flixx.net/wp-content/uploads/2021/05/real-family-tv-640x360-1-640x360-1.png" group-title="Airy.tv",Real Family TV
+https://hls.airy.tv/stream/42/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGSpartan_TV" tvg-name="Spartan TV" tvg-logo="http://www.spartantv.org/wp-content/uploads/2015/08/logo-reverse-md.png" group-title="Airy.tv",Spartan TV
+http://spartantv-airytv.amagi.tv/hls/amagi_hls_data_faststudi-spartantv-airytv/CDN/playlist.m3u8?p=airy
+#EXTINF:-1 tvg-id="airytv_EPGAXS_TV_Now" tvg-name="AXS TV Now" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bba10396351a3042dd4/900" group-title="Airy.tv",AXS TV Now
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGWorld_Poker_Tour" tvg-name="World Poker Tour" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/World_Poker_Tour_Logo.svg/220px-World_Poker_Tour_Logo.svg.png" group-title="Airy.tv",World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-AiryTV/120.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGPoker_Night" tvg-name="Poker Night" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/misc/vod/poker-night-in-america-vod.png" group-title="Airy.tv",Poker Night
+https://d2ac29vaob351i.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/PokerNight-AiryTV/216.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGFight_Network" tvg-name="Fight Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/300px-Fight_network_logo.svg.png" group-title="Airy.tv",Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGRacing_America" tvg-name="Racing America" tvg-logo="https://ww1.prweb.com/prfiles/2021/10/10/18254059/gI_88676_RacingAmerica-Logo-FullColor%20copy.png" group-title="Airy.tv",Racing America
+https://racingamerica-airytv.amagi.tv/hls/amagi_hls_data_faststudi-racingamerica-airytv/CDN/playlist.m3u8?p=airy
+#EXTINF:-1 tvg-id="airytv_EPGAWE_Plus" tvg-name="AWE Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/AWE_Logo_%28platinum%29.jpg/200px-AWE_Logo_%28platinum%29.jpg" group-title="Airy.tv",AWE Plus
+https://cdn.herringnetwork.com/80A4DFF/awee_oregon/AWE_Encore.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGOAN_Plus" tvg-name="OAN Plus" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/misc/vod/oan-plus-vod.png" group-title="Airy.tv",OAN Plus
+https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGFishing_Offshore" tvg-name="Fishing Offshore" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/misc/vod/fishing-vod.png" group-title="Airy.tv",Fishing Offshore
+https://30a-tv.com/feeds/airytv/fishingoffshore.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGGFNTV" tvg-name="GFNTV" tvg-logo="https://gfntv.com/wp-content/uploads/2021/09/Logo-GFNTV.png" group-title="Airy.tv",GFNTV
+https://d3jxchypmk8fja.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/GFNTV-AiryTV/169.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGHard_Knocks" tvg-name="Hard Knocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="Airy.tv",Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-AiryTV/121.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGMiddle_America_TV" tvg-name="Middle America" tvg-logo="" group-title="Airy.tv",Middle America
+https://d3uttqpw4wyvc.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/MiddleAmerica-AiryTV/196.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGSki_TV" tvg-name="Ski TV" tvg-logo="https://www.skitv.tv/wp-content/uploads/2020/05/ski-tv-logo-channel.png" group-title="Airy.tv",Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-AiryTV/193.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGAllied_Esports" tvg-name="Allied Esports" tvg-logo="https://images.squarespace-cdn.com/content/v1/603bfff9fc57820778ee28a6/1614563918101-UT7XGR7QD9GJWCNQGNH9/AE2021_MASTER_HORIZONTAL%3B+WHITE+TEXT.png" group-title="Airy.tv",Allied Esports
+https://d1lvmtqnqngsrn.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/AlliedESports-SportsTribal/213.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGNashville_Country_TV" tvg-name="Nashville Country TV" tvg-logo="https://static.wixstatic.com/media/9746b6_cce8d64036984d2b86706168884f6232~mv2.jpg" group-title="Airy.tv",Nashville Country TV
+https://d2w1tfvqo2ceap.cloudfront.net/hls/hls.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGairy_noepg" tvg-name="Airy 9" tvg-logo="https://i0.wp.com/airy.tv/wp-content/uploads/2020/11/playstore-icon.png" group-title="Airy.tv",Airy 9
+https://hls.airy.tv/stream/9/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGairy_noepg" tvg-name="Airy 17" tvg-logo="https://i0.wp.com/airy.tv/wp-content/uploads/2020/11/playstore-icon.png" group-title="Airy.tv",Airy 17
+https://hls.airy.tv/stream/17/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGairy_noepg" tvg-name="Airy 25" tvg-logo="https://i0.wp.com/airy.tv/wp-content/uploads/2020/11/playstore-icon.png" group-title="Airy.tv",Airy 25
+https://hls.airy.tv/stream/25/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGairy_noepg" tvg-name="Airy 37" tvg-logo="https://i0.wp.com/airy.tv/wp-content/uploads/2020/11/playstore-icon.png" group-title="Airy.tv",Airy 37
+https://hls.airy.tv/stream/37/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGairy_noepg" tvg-name="Airy 43" tvg-logo="https://i0.wp.com/airy.tv/wp-content/uploads/2020/11/playstore-icon.png" group-title="Airy.tv",Airy 43
+https://hls.airy.tv/stream/43/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGairy_noepg" tvg-name="Airy 44" tvg-logo="https://i0.wp.com/airy.tv/wp-content/uploads/2020/11/playstore-icon.png" group-title="Airy.tv",Airy 44
+https://hls.airy.tv/stream/44/airy.m3u8
