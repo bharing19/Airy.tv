@@ -105,7 +105,7 @@ https://live-mcl.cdn01.net/web/y93dkd4zr/playlist.m3u8
 https://30a-tv.com/feeds/airytv/investmentpitch.m3u8
 #EXTINF:-1 tvg-id="airytv_EPGFrance_24" tvg-name="France 24" tvg-logo="" group-title="Airy.tv",France 24
 http://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Airy 9" tvg-logo="https://i0.wp.com/airy.tv/wp-content/uploads/2020/11/playstore-icon.png" group-title="Airy.tv",Airy 9
-https://hls.airy.tv/stream/9/airy.m3u8
-#EXTINF:-1 tvg-id="airytv_EPGairy_noepg" tvg-name="Airy 44" tvg-logo="https://i0.wp.com/airy.tv/wp-content/uploads/2020/11/playstore-icon.png" group-title="Airy.tv",Airy 44
+#EXTINF:-1 tvg-id="airytv_EPGiWoman_TV" tvg-name="iWoman TV" tvg-logo="" group-title="Airy.tv",iWoman TV
 https://hls.airy.tv/stream/44/airy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nothing Scripted TV" tvg-logo="" group-title="Airy.tv",Nothing Scripted TV
+https://30a-tv.com/feeds/airytv/nothingscripted.m3u8
